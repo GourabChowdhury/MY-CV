@@ -1,0 +1,127 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+h1{
+  font-family: 'Beau Rivage', cursive;
+}
+h2{
+  margin: 0;
+  padding-top: 100px;
+  font-family: 'Beau Rivage', cursive;
+}
+p{
+  font-family: sans-serif;
+}
+.upper{
+  color: #293462;
+  background-color: #355ED3;
+  font-size: 1.5rem;
+}
+div{
+  background-color: #2D387A;
+}
+.first{
+  position:absolute;
+  right: 300px;
+  margin: 100px;
+}
+.second{
+  position:absolute;
+  left: 300px;
+}
+.third{
+  width: 100%;
+}
+
+.Gourab-pic{
+  height: 20%;
+  width: 20%;
+}
+.Skills1{
+
+}
+.Skills2{
+  height: 30%;
+  width: 30%;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.Gourab-pic{
+  margin: 40px;
+}
+
+hr{
+  border: dotted grey 5px;
+  border-bottom: none;
+  width: 3%;
+  margin: 50px auto;
+}
+
+.BUTTON_EYL {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 15px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 4px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_EYL:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #1E62D0;
+  padding: 50px 0 20px;
+}
+
+.contact-me{
+  padding:1px 0 20px;
+}
+
+a{
+  color:  #2D387A;
+  margin: 5px 5px;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+
+.copyright{
+  color: grey;
+  font-size: 0.8rem;
+  padding: 20px 0 10px 0;
+}
